@@ -2,7 +2,7 @@ any_ptr
 --------------
 A simple header-only smart pointer class that employs type erasure and safe run-time casts of void*.
 
-__any_ptr's__ enable the storage of heterogeneous types within a single container, e.g.
+__any_ptrs__ enable the storage of heterogeneous types within a single container, e.g.
 
 ```C++
     std::vector<any_ptr> ptrs; 
