@@ -22,4 +22,4 @@ and safe run-time casting to their progenitor types,
     }
 ```
 
- Extended from Cassio Neri's implementation with boost::shared_ptr
+ Extended from Cassio Neri's implementation with boost::shared_ptr. Boost-free with C++11 idioms.
